@@ -9,7 +9,7 @@
 <body>
     <nav></nav>
     <section> 
-        img <source media="img/1.jpg)" srcset="">
+        <img src="img/1.jpg" alt="Paisaje" width="1000"
     </section>
 </body>
 </html>
